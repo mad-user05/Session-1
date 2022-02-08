@@ -11,6 +11,9 @@ drawable bt1
 drawable bt2
 drawable chel
 drawable edit
+drawable film_f
+drawable film_sec
+drawable film_th
 drawable films_f
 drawable fr1
 drawable fr2
@@ -42,7 +45,6 @@ id logo_text
 id rl
 id rl2
 id rl3
-id rv
 id square_menu
 id star_menu
 id textView

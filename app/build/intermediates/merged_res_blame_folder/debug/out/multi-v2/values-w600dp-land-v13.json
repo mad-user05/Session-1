@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.myapplication.app-mergeDebugResources-25:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "outputFile": "com.example.myapplication.app-mergeDebugResources-26:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-3\\cebd83a8fc2035e5ccfd2aec04d6d0b2\\transformed\\material-1.5.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",

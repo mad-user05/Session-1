@@ -2453,6 +2453,9 @@ int drawable design_ic_visibility_off 0x7f070064
 int drawable design_password_eye 0x7f070065
 int drawable design_snackbar_background 0x7f070066
 int drawable edit 0x7f0700a2
+int drawable film_f 0x7f0700ad
+int drawable film_sec 0x7f0700ae
+int drawable film_th 0x7f0700af
 int drawable films_f 0x7f0700ac
 int drawable fr1 0x7f070067
 int drawable fr2 0x7f070068
@@ -2512,6 +2515,7 @@ int drawable notification_template_icon_bg 0x7f07009a
 int drawable notification_template_icon_low_bg 0x7f07009b
 int drawable notification_tile_bg 0x7f07009c
 int drawable notify_panel_notification_icon_bg 0x7f07009d
+int drawable selection_band_overlay 0x7f0700b0
 int drawable sq3 0x7f0700a6
 int drawable star 0x7f0700a7
 int drawable test_custom_background 0x7f07009e
@@ -2882,7 +2886,6 @@ int id rl2 0x7f0801ee
 int id rl3 0x7f0801ef
 int id rounded 0x7f08015e
 int id row_index_key 0x7f08015f
-int id rv 0x7f0801f0
 int id save_non_transition_alpha 0x7f080160
 int id save_overlay_view 0x7f080161
 int id sawtooth 0x7f080162

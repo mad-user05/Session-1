@@ -2454,6 +2454,9 @@ drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
 drawable edit
+drawable film_f
+drawable film_sec
+drawable film_th
 drawable films_f
 drawable fr1
 drawable fr2
@@ -2513,6 +2516,7 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable selection_band_overlay
 drawable sq3
 drawable star
 drawable test_custom_background
@@ -2883,7 +2887,6 @@ id rl2
 id rl3
 id rounded
 id row_index_key
-id rv
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth

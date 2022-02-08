@@ -8,19 +8,28 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplication.MovieActivity
 import com.example.myapplication.R
+import com.example.myapplication.main.api.Inter
+import com.example.myapplication.main.model.ModelCard
 import com.example.myapplication.main.model.UpModel
 import kotlinx.android.synthetic.main.activity_main.*
+import okhttp3.Call
 
 class MainActivity : AppCompatActivity() {
     //val lisfOf =
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+        /*
+        val service = Inter.api
+        val call : Call<UpModel> = service.getUp()
+        call.equery(){
+            /*val adapter = Adapter()
+            rv.adapter = adapter
+            rv.layoutManager = LinearLayoutManager(this)
+            rv.adapter*/
+        }
+*/
 
-        val adapter = Adapter()
-        rv.adapter = adapter
-        rv.layoutManager = LinearLayoutManager(this)
-        rv.adapter
 
     }
     //49:B3:4D:E3:58:6E:F0:46:B5:5D:8E:8C:D1:D7:AD:74:B1:EF:58:66 ( SHA1 )
