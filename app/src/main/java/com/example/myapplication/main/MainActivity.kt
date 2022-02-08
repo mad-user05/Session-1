@@ -3,6 +3,7 @@ package com.example.myapplication.main
 import android.content.Intent
 import android.os.Bundle
 import android.view.View
+import android.widget.HorizontalScrollView
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.example.myapplication.MovieActivity
@@ -19,7 +20,6 @@ class MainActivity : AppCompatActivity() {
         val adapter = Adapter()
         rv.adapter = adapter
         rv.layoutManager = LinearLayoutManager(this)
-        rv.layoutManager = LinearLayoutManager(this).orientation
         rv.adapter
 
     }
