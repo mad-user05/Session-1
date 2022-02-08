@@ -9,8 +9,8 @@ import retrofit2.http.POST
 import retrofit2.http.Query
 
 interface Service {
-    @GET("name")
-        suspend fun getPhotos(@Query("name") name : String)
+    @GET("movies/cover")
+        suspend fun getUp()
 
     @POST("auth/register")
     suspend fun getReg(@Body ModelRef : ModelRef ): Response

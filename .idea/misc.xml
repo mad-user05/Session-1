@@ -4,10 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_launch_screen.xml" value="0.36666666666666664" />
-        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_movie.xml" value="0.35260416666666666" />
         <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
         <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/activity_signa_up.xml" value="0.2" />
+        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/card_view.xml" value="0.365625" />
         <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/layout/fragment_reg.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/menu/nav_menu.xml" value="0.365625" />
+        <entry key="..\:/Users/admin/Desktop/ses/app/src/main/res/menu/up_menu.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="Главное"
+    android:id="@+id/tv_menu"
+    android:icon="@drawable/tv"
+    app:showAsAction="always"/>
+    <item
+        android:title="Главное"
+        android:id="@+id/square_menu"
+        android:icon="@drawable/sq3"
+        app:showAsAction="always"/>
+    <item
+        android:title="Главное"
+        android:id="@+id/star_menu"
+        android:icon="@drawable/star"
+        app:showAsAction="always"/>
+    <item
+        android:title="Главное"
+        android:id="@+id/chel_menu"
+        android:icon="@drawable/chel"
+        app:showAsAction="always"/>
+</menu>

@@ -21,6 +21,6 @@ class LaunchScreenActivity : AppCompatActivity() {
                 startActivity(intent)
             }
 
-        }
+        }.start()
     }
 }
