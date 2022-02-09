@@ -2449,6 +2449,7 @@ int drawable btn_radio_on_mtrl 0x7f070060
 int drawable btn_radio_on_to_off_mtrl_animation 0x7f070061
 int drawable chat 0x7f0700b2
 int drawable chel 0x7f0700a4
+int drawable click 0x7f0700b4
 int drawable design_fab_background 0x7f070062
 int drawable design_ic_visibility 0x7f070063
 int drawable design_ic_visibility_off 0x7f070064
@@ -2755,6 +2756,8 @@ int id ignore 0x7f0800da
 int id ignoreRequest 0x7f0800db
 int id image 0x7f0800dc
 int id imageView 0x7f0800dd
+int id img_but 0x7f080208
+int id img_card 0x7f080209
 int id img_id 0x7f0801ed
 int id img_movie 0x7f0801fa
 int id img_view 0x7f0801fb

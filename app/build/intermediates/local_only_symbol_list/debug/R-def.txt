@@ -12,6 +12,7 @@ drawable bt1
 drawable bt2
 drawable chat
 drawable chel
+drawable click
 drawable edit
 drawable film_f
 drawable film_sec
@@ -43,6 +44,8 @@ id edit_secmname
 id first
 id id_img
 id imageView
+id img_but
+id img_card
 id img_id
 id img_movie
 id img_view

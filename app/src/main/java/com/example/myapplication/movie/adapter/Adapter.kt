@@ -10,10 +10,11 @@ import com.bumptech.glide.Glide
 import com.example.myapplication.R
 import com.example.myapplication.movie.adapter.models.ModelFirst
 import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.card_view.*
 
 class Adapter(private val dataSet: Array<ModelFirst>, val context : AppCompatActivity) : RecyclerView.Adapter<Adapter.HolderOp>() {
     inner class HolderOp(itemView: View) : RecyclerView.ViewHolder(itemView){
-        protected val img1 : ImageView = context.id_img
+        protected val img1 : ImageView = context.img_card
 
         fun bind(oiop : ModelFirst){
                     Glide.with(context).load(oiop.images).into(img1) }

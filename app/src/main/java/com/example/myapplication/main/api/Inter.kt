@@ -4,7 +4,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 object Inter {
-    val URL = "http://cinema.areas.su/"
+    val URL = "http://cinema.areas.su/up/images/"
 
         val retrofit by lazy {
             Retrofit.Builder()
