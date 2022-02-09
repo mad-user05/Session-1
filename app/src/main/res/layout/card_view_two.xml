@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:padding="16dp"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:id="@+id/img_view"
+        android:layout_width="128dp"
+        android:layout_height="72dp"
+
+        />
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_marginLeft="16dp"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/name_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Нелегальная магия" />
+
+        <TextView
+            android:id="@+id/op_tv"
+            android:layout_width="wrap_content"
+            android:layout_below="@id/name_tv"
+            android:layout_height="wrap_content"
+            android:text="Квентин и Джулия приглашены на тест их волшебных навыков..." />
+
+        <TextView
+            android:id="@+id/year_tv"
+            android:layout_below="@id/op_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2015" />
+    </RelativeLayout>
+
+
+
+
+</LinearLayout>

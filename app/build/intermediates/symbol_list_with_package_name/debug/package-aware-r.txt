@@ -2435,6 +2435,7 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable arrow
 drawable avd_hide_password
 drawable avd_show_password
 drawable bt1
@@ -2447,6 +2448,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable chat
 drawable chel
 drawable design_fab_background
 drawable design_ic_visibility
@@ -2472,6 +2474,7 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable img
+drawable img_up
 drawable logo
 drawable logo_spl
 drawable look
@@ -2754,6 +2757,8 @@ id ignoreRequest
 id image
 id imageView
 id img_id
+id img_movie
+id img_view
 id immediateStop
 id included
 id info
@@ -2834,6 +2839,7 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name_tv
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2855,6 +2861,7 @@ id notification_main_column_container
 id off
 id on
 id onInterceptTouchReturnSwipe
+id op_tv
 id outline
 id outward
 id overshoot
@@ -2887,6 +2894,8 @@ id rl2
 id rl3
 id rounded
 id row_index_key
+id rv
+id rv_sec
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -2907,6 +2916,7 @@ id search_mag_icon
 id search_plate
 id search_src_text
 id search_voice_btn
+id second
 id select_dialog_listview
 id selected
 id selection_type
@@ -2990,6 +3000,7 @@ id title
 id titleDividerNoCustom
 id title_template
 id toggle
+id toolbar_id
 id top
 id topPanel
 id touch_outside
@@ -3002,8 +3013,13 @@ id transition_scene_layoutid_cache
 id transition_transform
 id triangle
 id tv_center
+id tv_epiz
+id tv_kadr
 id tv_left
+id tv_look
 id tv_menu
+id tv_opis
+id tv_opis_many
 id tv_right
 id unchecked
 id uniform
@@ -3011,6 +3027,7 @@ id unlabeled
 id up
 id useLogo
 id vertical_only
+id video
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3026,6 +3043,7 @@ id wrap_content
 id wrap_content_constrained
 id x_left
 id x_right
+id year_tv
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
@@ -3118,6 +3136,7 @@ layout activity_movie
 layout activity_sign_in
 layout activity_signa_up
 layout card_view
+layout card_view_two
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog

@@ -2,7 +2,12 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 <item
-    android:title="Для Вас"
+    android:title="18+"
     android:id="@+id/first"
     app:showAsAction="always"/>
+    <item
+        android:title="18+"
+        android:id="@+id/second"
+        android:icon="@drawable/chat"
+        app:showAsAction="always"/>
 </menu>

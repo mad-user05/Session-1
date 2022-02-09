@@ -3,16 +3,9 @@ package com.example.myapplication.main
 import android.content.Intent
 import android.os.Bundle
 import android.view.View
-import android.widget.HorizontalScrollView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.myapplication.MovieActivity
+import com.example.myapplication.movie.MovieActivity
 import com.example.myapplication.R
-import com.example.myapplication.main.api.Inter
-import com.example.myapplication.main.model.ModelCard
-import com.example.myapplication.main.model.UpModel
-import kotlinx.android.synthetic.main.activity_main.*
-import okhttp3.Call
 
 class MainActivity : AppCompatActivity() {
     //val lisfOf =

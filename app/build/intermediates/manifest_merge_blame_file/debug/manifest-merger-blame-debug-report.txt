@@ -41,8 +41,8 @@
 26-->C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:17:9-44
 27        <activity
 27-->C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:19:9-21:40
-28            android:name="com.example.myapplication.MovieActivity"
-28-->C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:20:13-42
+28            android:name="com.example.myapplication.movie.MovieActivity"
+28-->C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:20:13-48
 29            android:exported="false" />
 29-->C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:21:13-37
 30        <activity

@@ -25,7 +25,7 @@
         android:theme="@style/Theme.MyApplication"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.example.myapplication.MovieActivity"
+            android:name="com.example.myapplication.movie.MovieActivity"
             android:exported="false" />
         <activity
             android:name="com.example.myapplication.signup.SignaUpActivity"

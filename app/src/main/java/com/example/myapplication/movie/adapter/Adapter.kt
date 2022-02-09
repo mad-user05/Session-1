@@ -1,4 +1,4 @@
-package com.example.myapplication.main
+package com.example.myapplication.movie.adapter
 
 import android.view.LayoutInflater
 import android.view.View
@@ -8,15 +8,15 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.myapplication.R
-import com.example.myapplication.main.model.UpModel
+import com.example.myapplication.movie.adapter.models.ModelFirst
 import kotlinx.android.synthetic.main.activity_main.*
 
-class Adapter(private val dataSet: Array<UpModel>, val context : AppCompatActivity) : RecyclerView.Adapter<Adapter.HolderOp>() {
+class Adapter(private val dataSet: Array<ModelFirst>, val context : AppCompatActivity) : RecyclerView.Adapter<Adapter.HolderOp>() {
     inner class HolderOp(itemView: View) : RecyclerView.ViewHolder(itemView){
         protected val img1 : ImageView = context.id_img
 
-        private fun bind(oiop : UpModel){
-                    Glide.with(context).load(oiop.backgroundImage).into(img1) }
+        fun bind(oiop : ModelFirst){
+                    Glide.with(context).load(oiop.images).into(img1) }
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): HolderOp {
@@ -27,7 +27,7 @@ class Adapter(private val dataSet: Array<UpModel>, val context : AppCompatActivi
     }
 
     override fun onBindViewHolder(holder: HolderOp, position: Int) {
-     // holder.toString() = dataSet[position].toString()
+     holder.bind(dataSet[position])
     }
 
     override fun getItemCount(): Int = dataSet.size

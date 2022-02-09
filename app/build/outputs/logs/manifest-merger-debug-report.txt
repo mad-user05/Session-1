@@ -113,12 +113,12 @@ MERGED from [androidx.startup:startup-runtime:1.0.0] C:\Users\admin\.gradle\cach
 		ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:10:9-65
 	android:usesCleartextTraffic
 		ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:17:9-44
-activity#com.example.myapplication.MovieActivity
+activity#com.example.myapplication.movie.MovieActivity
 ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:19:9-21:40
 	android:exported
 		ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:21:13-37
 	android:name
-		ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:20:13-42
+		ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:20:13-48
 activity#com.example.myapplication.signup.SignaUpActivity
 ADDED from C:\Users\admin\Desktop\ses\app\src\main\AndroidManifest.xml:22:9-24:49
 	android:exported

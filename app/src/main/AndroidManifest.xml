@@ -17,7 +17,7 @@
         android:usesCleartextTraffic="true"
         tools:targetApi="31">
         <activity
-            android:name=".MovieActivity"
+            android:name=".movie.MovieActivity"
             android:exported="false" />
         <activity
             android:name=".signup.SignaUpActivity"
