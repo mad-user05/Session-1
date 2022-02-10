@@ -2448,6 +2448,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable but_play
 drawable chat
 drawable chel
 drawable click
@@ -2456,6 +2457,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dveepalki
 drawable edit
 drawable film_f
 drawable film_sec
@@ -2475,7 +2477,9 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable img
+drawable img_film
 drawable img_up
+drawable line
 drawable logo
 drawable logo_spl
 drawable look
@@ -2508,6 +2512,7 @@ drawable mtrl_popupmenu_background
 drawable mtrl_popupmenu_background_overlay
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable no
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -2520,6 +2525,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable o
+drawable oo
+drawable play
+drawable reccccc
 drawable selection_band_overlay
 drawable sq3
 drawable star
@@ -2530,6 +2539,9 @@ drawable tooltip_frame_dark
 drawable tooltip_frame_light
 drawable tv
 drawable up_s
+drawable video
+drawable video2
+drawable volume
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -2752,6 +2764,7 @@ id horizontal_only
 id icon
 id icon_group
 id id_img
+id idmggg
 id ifRoom
 id ignore
 id ignoreRequest
@@ -2762,6 +2775,8 @@ id img_card
 id img_id
 id img_movie
 id img_view
+id imggfg
+id imggg
 id immediateStop
 id included
 id info
@@ -2780,6 +2795,7 @@ id layout
 id left
 id leftToRight
 id legacy
+id line
 id line1
 id line3
 id linear
@@ -2842,7 +2858,9 @@ id mtrl_picker_text_input_range_start
 id mtrl_picker_title_text
 id mtrl_view_tag_bottom_padding
 id multiply
+id name_film
 id name_tv
+id nav_toolbar
 id navigation_bar_item_active_indicator_view
 id navigation_bar_item_icon_container
 id navigation_bar_item_icon_view
@@ -2999,6 +3017,8 @@ id textinput_placeholder
 id textinput_prefix_text
 id textinput_suffix_text
 id time
+id time_one
+id time_two
 id title
 id titleDividerNoCustom
 id title_template
@@ -3031,6 +3051,7 @@ id up
 id useLogo
 id vertical_only
 id video
+id video2
 id view_offset_helper
 id view_transition
 id view_tree_lifecycle_owner
@@ -3038,6 +3059,7 @@ id view_tree_saved_state_registry_owner
 id view_tree_view_model_store_owner
 id visible
 id visible_removing_fragment_view_tag
+id volume
 id west
 id withText
 id withinBounds
@@ -3227,6 +3249,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+menu comp_menu
 menu example_menu
 menu example_menu2
 menu nav_menu

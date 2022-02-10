@@ -28,21 +28,21 @@ class MovieActivity : AppCompatActivity() {
         movie.start()
 
 
-        val adapter = Adapter()
+       /* val adapter = Adapter()
         val layoutManager =LinearLayoutManager(this)
         layoutManager.orientation = LinearLayoutManager.HORIZONTAL
         rv.layoutManager = layoutManager
         rv.adapter = adapter
         getMovieOP()
-
+*/
 
     }
 
     fun getMovieOP() {
         val service = Inter.api
         val call = service.getMovie(10)
-        call.enqueue(object :Call<ModelFirst>){
+       // call.enqueue(object :Call<ModelFirst>){
 
-        }
+       // }
     }
 }

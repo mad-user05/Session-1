@@ -9,7 +9,6 @@ import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.myapplication.R
 import com.example.myapplication.movie.adapter.models.ModelFirst
-import kotlinx.android.synthetic.main.activity_main.*
 import kotlinx.android.synthetic.main.card_view.*
 
 class Adapter(private val dataSet: Array<ModelFirst>, val context : AppCompatActivity) : RecyclerView.Adapter<Adapter.HolderOp>() {
